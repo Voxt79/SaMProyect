@@ -1,0 +1,65 @@
+
+CREATE DATABASE SaM;
+GO
+
+-- Use existing database or create it
+USE SaM;
+GO
+
+-- Table: Users
+CREATE TABLE Users (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    FullName NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(150) NOT NULL UNIQUE,
+    RegistrationDate DATETIME DEFAULT GETDATE()
+);
+GO
+
+-- Table: Tasks
+CREATE TABLE Tasks (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    UserId INT NOT NULL,
+    Name NVARCHAR(150) NOT NULL,
+    Description NVARCHAR(MAX),
+    Priority VARCHAR(10) CHECK (Priority IN ('High', 'Medium', 'Low')) NOT NULL,
+    Status VARCHAR(15) CHECK (Status IN ('Pending', 'In Progress', 'Completed', 'Failed')) DEFAULT 'Pending',
+    CreatedAt DATETIME DEFAULT GETDATE(),
+    ScheduledAt DATETIME NOT NULL,
+    FinishedAt DATETIME NULL,
+    FOREIGN KEY (UserId) REFERENCES Users(Id)
+);
+GO
+
+-- Table: TaskLogs
+CREATE TABLE TaskLogs (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    TaskId INT NOT NULL,
+    StartTime DATETIME NOT NULL,
+    EndTime DATETIME NOT NULL,
+    Success BIT NOT NULL,
+    ErrorMessage NVARCHAR(MAX),
+    FOREIGN KEY (TaskId) REFERENCES Tasks(Id)
+);
+GO
+
+-- Table: Notifications
+CREATE TABLE Notifications (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    TaskId INT NOT NULL,
+    SentAt DATETIME DEFAULT GETDATE(),
+    Type VARCHAR(20) CHECK (Type IN ('Completed', 'Failed')),
+    Message NVARCHAR(MAX) NOT NULL,
+    FOREIGN KEY (TaskId) REFERENCES Tasks(Id)
+);
+GO
+
+---------------------------------------------------
+-- Insert test user
+INSERT INTO Users (FullName, Email)
+VALUES ('Carlos Jimenez', 'carlos@sam.com');
+
+-- Insert example tasks
+INSERT INTO Tasks (UserId, Name, Description, Priority, ScheduledAt)
+VALUES 
+(1, 'Send Daily Summary Emails', 'Send summary emails to users', 'High', GETDATE() + 1),
+(1, 'Generate Weekly Report', 'Performance weekly report', 'Medium', GETDATE() + 2);
