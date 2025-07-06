@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\",
+  "WorkspaceRootPath": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ar12m\\onedrive\\escritorio\\morte 14\\sam\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Models\\TaskPriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Models\\TaskStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ar12m\\onedrive\\escritorio\\morte 14\\sam\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ar12m\\onedrive\\escritorio\\morte 14\\sam\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ar12m\\onedrive\\escritorio\\morte 14\\sam\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorytasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorytasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ar12m\\onedrive\\escritorio\\morte 14\\sam\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorynotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorynotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +50,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryUsers.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryUsers.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryUsers.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryUsers.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:57:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryTasks.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:57:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryTaskLogs.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:56:52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:56:22.507Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:55:06.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TaskLog.cs",
-              "DocumentMoniker": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
-              "ToolTip": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T02:50:42.919Z",
               "EditorCaption": ""
@@ -49,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TaskStatus.cs",
-              "DocumentMoniker": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
-              "ToolTip": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +149,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TaskPriority.cs",
-              "DocumentMoniker": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
-              "ToolTip": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,29 +162,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:48:24.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:48:24.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\ar12m\\OneDrive\\Escritorio\\Morte 14\\SaM\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:39:01.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:39:01.688Z"
             }
           ]
         }
