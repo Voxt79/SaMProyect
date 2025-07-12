@@ -19,22 +19,6 @@ namespace AdvancedProgramming.Data
             : base("name=SaMEntities")
         {
         }
-    
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            throw new UnintentionalCodeFirstException();
-        }
-
-        public DbSet<T> Set<T>()
-        {
-            throw new NotImplementedException();
-        }
-
-        public object Entry<T>(T entity) where T : class
-        {
-            throw new NotImplementedException();
-        }
-
         public virtual DbSet<Notifications> Notifications { get; set; }
         public virtual DbSet<TaskLogs> TaskLogs { get; set; }
         public virtual DbSet<Tasks> Tasks { get; set; }

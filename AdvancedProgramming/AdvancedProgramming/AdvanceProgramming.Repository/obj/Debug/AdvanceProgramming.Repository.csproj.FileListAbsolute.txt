@@ -1,0 +1,2 @@
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvanceProgramming.Repository\obj\Debug\AdvanceProgramming.Repository.csproj.AssemblyReference.cache
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvanceProgramming.Repository\obj\Debug\AdvanceProgramming.Repository.csproj.CoreCompileInputs.cache

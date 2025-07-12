@@ -1,0 +1,6 @@
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Business.dll
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Business.pdb
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.AssemblyReference.cache
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.dll
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.pdb

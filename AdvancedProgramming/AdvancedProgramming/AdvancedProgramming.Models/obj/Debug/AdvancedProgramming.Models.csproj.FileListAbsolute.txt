@@ -1,0 +1,6 @@
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.dll
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.pdb
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.AssemblyReference.cache
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.dll
+C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.pdb
