@@ -3,56 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Models\\TaskPriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Models\\TaskStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advanceprogramming.repository\\repositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositoryusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advanceprogramming.repository\\repositorytasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorytasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorytasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advanceprogramming.repository\\repositorynotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorynotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorynotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:AdvancedProgramming.Mvc\\Controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|c:\\users\\caleb\\documents\\universidad\\progra avanzada\\proyecto\\samproyect\\advancedprogramming\\advancedprogramming\\advanceprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,93 +50,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RepositoryTaskLogs.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
-              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
-              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:56:52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryBase.cs",
-              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:55:06.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RepositoryTasks.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
-              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
-              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:57:17.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Model1.Context.tt",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\Model1.Context.tt",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\Model1.Context.tt",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\Model1.Context.tt",
-              "RelativeToolTip": "AdvancedProgramming.Data\\Model1.Context.tt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-12T01:54:06.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RepositoryNotifications.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryNotifications.cs",
-              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryNotifications.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryNotifications.cs",
-              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryNotifications.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:56:22.507Z",
+              "WhenOpened": "2025-07-12T08:00:10.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\Model1.Context.cs",
-              "RelativeToolTip": "AdvancedProgramming.Data\\Model1.Context.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T01:54:08.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "TaskLog.cs",
               "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
               "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:50:42.919Z",
+              "WhenOpened": "2025-07-12T08:00:09.513Z",
               "EditorCaption": ""
             },
             {
@@ -167,74 +82,74 @@
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
               "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskItem.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA5wCIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:48:24.505Z",
+              "WhenOpened": "2025-07-12T08:00:07.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.Config",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\App.Config",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
-              "RelativeToolTip": "AdvancedProgramming.Data\\App.Config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-12T02:13:19.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
-              "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:50:00.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskPriority.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
-              "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:49:13.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "RepositoryUsers.cs",
               "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryUsers.cs",
               "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryUsers.cs",
               "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryUsers.cs",
               "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:57:40.26Z",
+              "WhenOpened": "2025-07-12T07:54:42.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RepositoryTasks.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:39:01.688Z",
+              "WhenOpened": "2025-07-12T07:53:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryTaskLogs.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTaskLogs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:42:08.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryNotifications.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:41:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\caleb\\Documents\\universidad\\Progra avanzada\\Proyecto\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:01:28.39Z",
               "EditorCaption": ""
             }
           ]

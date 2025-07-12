@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\AdvancedProgramming.Mvc",
-    "\\AdvancedProgramming.Mvc\\Models"
+    "\\AdvancedProgramming.Mvc\\Models",
+    "\\AdvanceProgramming.Repository"
   ],
   "SelectedNode": "\\AdvancedProgramming.sln",
   "PreviewInSolutionExplorer": false
