@@ -1,45 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\",
+  "WorkspaceRootPath": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ema\\desktop\\u\\progra\\proyecto dudoso github\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A373010C-87D6-4018-9CDA-A11E38808BCF}|AdvancedProgramming.Business\\AdvancedProgramming.Business.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.business\\usersbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A373010C-87D6-4018-9CDA-A11E38808BCF}|AdvancedProgramming.Business\\AdvancedProgramming.Business.csproj|solutionrelative:advancedprogramming.business\\usersbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|c:\\users\\ema\\desktop\\u\\progra\\proyecto dudoso github\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.data\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A373010C-87D6-4018-9CDA-A11E38808BCF}|AdvancedProgramming.Business\\AdvancedProgramming.Business.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.business\\tasksbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A373010C-87D6-4018-9CDA-A11E38808BCF}|AdvancedProgramming.Business\\AdvancedProgramming.Business.csproj|solutionrelative:advancedprogramming.business\\tasksbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|c:\\users\\ema\\desktop\\u\\progra\\proyecto dudoso github\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.data\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.data\\models\\tasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\tasklogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|c:\\users\\ema\\desktop\\u\\progra\\proyecto dudoso github\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.data\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.data\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\ema\\desktop\\u\\progra\\proyecto dudoso github\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\controllers\\tasklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\tasklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\tasklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|c:\\users\\caleb\\source\\repos\\voxt79\\samproyect\\advancedprogramming\\advancedprogramming\\advancedprogramming.mvc\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA30BAD4-3E5F-481F-BEB7-3D9B8729C6AA}|AdvancedProgramming.Mvc\\AdvancedProgramming.Mvc.csproj|solutionrelative:advancedprogramming.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3FCD6F-E174-407A-BE42-4363B26D64BC}|AdvanceProgramming.Repository\\AdvanceProgramming.Repository.csproj|solutionrelative:advanceprogramming.repository\\repositorytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3E56CB98-83B9-462B-948A-48919AE73AF5}|AdvancedProgramming.Data\\AdvancedProgramming.Data.csproj|solutionrelative:advancedprogramming.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -50,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,37 +106,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tasks.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Tasks.cs",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\models\\Tasks.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Tasks.cs",
-              "RelativeToolTip": "AdvancedProgramming.Data\\models\\Tasks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "TaskLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskLogsController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\TaskLogsController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TaskLogsController.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\TaskLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T21:23:28.884Z",
+              "WhenOpened": "2025-07-14T23:30:37.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
-              "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwDQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-14T21:04:47.288Z",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T23:30:02.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:43:23.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\EntityBase.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Data\\models\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\EntityBase.cs",
               "RelativeToolTip": "AdvancedProgramming.Data\\models\\EntityBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,10 +159,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TaskLogs.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\TaskLogs.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\models\\TaskLogs.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\TaskLogs.cs",
+              "RelativeToolTip": "AdvancedProgramming.Data\\models\\TaskLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:26:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Notifications.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\models\\Notifications.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Notifications.cs",
+              "RelativeToolTip": "AdvancedProgramming.Data\\models\\Notifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:25:16.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Business\\UsersBusiness.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Business\\UsersBusiness.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Business\\UsersBusiness.cs",
+              "RelativeToolTip": "AdvancedProgramming.Business\\UsersBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:34:27.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Business\\TasksBusiness.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Business\\TasksBusiness.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Business\\TasksBusiness.cs",
+              "RelativeToolTip": "AdvancedProgramming.Business\\TasksBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:19:31.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T23:31:13.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\QueueController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\QueueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T23:35:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Users.cs",
               "RelativeDocumentMoniker": "AdvancedProgramming.Data\\models\\Users.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Users.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Users.cs",
               "RelativeToolTip": "AdvancedProgramming.Data\\models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,24 +249,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "AdvancedProgramming.Mvc\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T20:43:23.979Z",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T20:39:23.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Tasks.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Data\\models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\models\\Tasks.cs",
+              "RelativeToolTip": "AdvancedProgramming.Data\\models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:23:28.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T21:04:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Tasks\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T22:21:55.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:20:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:20:54.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskLog.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
+              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
+              "RelativeToolTip": "AdvancedProgramming.Mvc\\Models\\TaskLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:20:56.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "RepositoryTasks.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
               "RelativeDocumentMoniker": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvanceProgramming.Repository\\RepositoryTasks.cs",
               "RelativeToolTip": "AdvanceProgramming.Repository\\RepositoryTasks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,49 +352,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-14T20:39:29.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T20:39:29.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AdvancedProgramming.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-14T20:39:23.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Web.config",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Web.config",
               "RelativeDocumentMoniker": "AdvancedProgramming.Mvc\\Web.config",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Web.config",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Mvc\\Web.config",
               "RelativeToolTip": "AdvancedProgramming.Mvc\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAADZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAADOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-07-14T20:25:26.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "App.Config",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
               "RelativeDocumentMoniker": "AdvancedProgramming.Data\\App.Config",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\U\\Progra\\Proyecto dudoso github\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\Voxt79\\SaMProyect\\AdvancedProgramming\\AdvancedProgramming\\AdvancedProgramming.Data\\App.Config",
               "RelativeToolTip": "AdvancedProgramming.Data\\App.Config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

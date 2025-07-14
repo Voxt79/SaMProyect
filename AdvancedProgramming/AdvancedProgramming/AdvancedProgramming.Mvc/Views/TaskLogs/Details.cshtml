@@ -1,0 +1,58 @@
+﻿@model AdvancedProgramming.Data.TaskLogs
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TaskLogs</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Success)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Success)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ErrorMessage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ErrorMessage)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tasks.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tasks.Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

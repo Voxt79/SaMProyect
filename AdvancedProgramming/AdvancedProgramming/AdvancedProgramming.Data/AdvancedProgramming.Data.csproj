@@ -70,6 +70,7 @@
     </Compile>
     <Compile Include="models\EntityBase.cs" />
     <Compile Include="models\Notifications.cs" />
+    <Compile Include="models\TaskLogs.cs" />
     <Compile Include="models\Tasks.cs" />
     <Compile Include="models\Users.cs" />
     <Compile Include="Notifications.cs">
