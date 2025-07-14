@@ -4,3 +4,9 @@ C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\Advance
 C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
 C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
 C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb

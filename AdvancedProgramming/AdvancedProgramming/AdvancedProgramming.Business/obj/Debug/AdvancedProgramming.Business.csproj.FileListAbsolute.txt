@@ -4,3 +4,22 @@ C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\Advance
 C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.CoreCompileInputs.cache
 C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.dll
 C:\Users\caleb\Documents\universidad\Progra avanzada\Proyecto\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Business.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Business.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Models.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvanceProgramming.Repository.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\EntityFramework.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvancedProgramming.Models.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvanceProgramming.Repository.pdb
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\AdvanceProgramming.Repository.dll.config
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\bin\Debug\EntityFramework.xml
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\Advanced.4AA97319.Up2Date
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.dll
+C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Business\obj\Debug\AdvancedProgramming.Business.pdb

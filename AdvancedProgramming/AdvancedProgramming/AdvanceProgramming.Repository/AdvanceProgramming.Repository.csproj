@@ -63,10 +63,6 @@
       <Project>{d5bc5bb1-cb38-4d32-b59a-43e7b39af994}</Project>
       <Name>AdvancedProgramming.Architecture</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AdvancedProgramming.Business\AdvancedProgramming.Business.csproj">
-      <Project>{a373010c-87d6-4018-9cda-a11e38808bcf}</Project>
-      <Name>AdvancedProgramming.Business</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AdvancedProgramming.Data\AdvancedProgramming.Data.csproj">
       <Project>{3e56cb98-83b9-462b-948a-48919ae73af5}</Project>
       <Name>AdvancedProgramming.Data</Name>
@@ -74,10 +70,6 @@
     <ProjectReference Include="..\AdvancedProgramming.Models\AdvancedProgramming.Models.csproj">
       <Project>{cf5db38f-1fd1-4f5c-9634-a57d6859f544}</Project>
       <Name>AdvancedProgramming.Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\AdvancedProgramming.Mvc\AdvancedProgramming.Mvc.csproj">
-      <Project>{da30bad4-3e5f-481f-beb7-3d9b8729c6aa}</Project>
-      <Name>AdvancedProgramming.Mvc</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
