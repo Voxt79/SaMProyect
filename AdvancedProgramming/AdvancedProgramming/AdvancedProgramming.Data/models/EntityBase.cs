@@ -13,7 +13,7 @@ namespace AdvancedProgramming.Data
         int UniqueIdentifier { get; set; }
     }
 
-    public /*abstract*/ class EntityBase : IEntityBase
+    public class EntityBase : IEntityBase
     {
        public int UniqueIdentifier { get; set; }
     }

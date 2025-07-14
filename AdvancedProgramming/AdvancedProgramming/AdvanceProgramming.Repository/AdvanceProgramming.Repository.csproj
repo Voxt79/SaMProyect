@@ -59,10 +59,6 @@
     <Compile Include="RepositoryUsers.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AdvancedProgramming.Architecture\AdvancedProgramming.Architecture.csproj">
-      <Project>{d5bc5bb1-cb38-4d32-b59a-43e7b39af994}</Project>
-      <Name>AdvancedProgramming.Architecture</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AdvancedProgramming.Data\AdvancedProgramming.Data.csproj">
       <Project>{3e56cb98-83b9-462b-948a-48919ae73af5}</Project>
       <Name>AdvancedProgramming.Data</Name>

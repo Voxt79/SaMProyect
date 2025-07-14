@@ -10,3 +10,9 @@ C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgra
 C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
 C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
 C:\Users\caleb\source\repos\Voxt79\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Ema\Desktop\U\Progra\Proyecto dudoso github\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Ema\Desktop\U\Progra\Proyecto dudoso github\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Ema\Desktop\U\Progra\Proyecto dudoso github\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\U\Progra\Proyecto dudoso github\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\U\Progra\Proyecto dudoso github\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Ema\Desktop\U\Progra\Proyecto dudoso github\SaMProyect\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb

@@ -47,10 +47,24 @@
             @Html.DisplayFor(modelItem => item.Description)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Priority)
+            @{
+                string prioridadBadge = item.Priority == "High" ? "bg-danger" :
+                                        item.Priority == "Medium" ? "bg-warning text-dark" :
+                                        item.Priority == "Low" ? "bg-success" : "bg-secondary";
+            }
+            <span class="badge @prioridadBadge">
+                @item.Priority
+            </span>
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Status)
+            @{
+                string badgeClass = item.Status == "Pending" ? "bg-warning text-dark" :
+                                    item.Status == "Completed" ? "bg-success" :
+                                    item.Status == "Failed" ? "bg-danger" : "bg-secondary";
+            }
+            <span class="badge @badgeClass">
+                @item.Status
+            </span>
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.CreatedAt)
